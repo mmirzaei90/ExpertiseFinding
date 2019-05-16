@@ -1,0 +1,1 @@
+To run this code, you need to copy the "ProposalSimilarity" folder in your computer. Put the base path in the "run_proposal_SimR.sh". You should also have the csv award files for each year in the awards folder. 
